@@ -4,8 +4,8 @@ const CONFIG = {
     introDesc: `Khoảnh khắc đó tôi đã biết
     âm thanh đẹp nhất của cuộc
     sống là tiếng của một người
-    nói yêu một người.`,
-    btnIntro: '^^ hì hì^^',
+    nói yêu một người`,
+    btnIntro: '^^hì hì^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Yes sirrr chắc chắn là như zậy rùi <33',
